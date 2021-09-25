@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything related to my skills**
 
-- ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd.**
+- ⚡ Fun fact **I love to sing song when code doesn't work.**
 
 
 <h3 align="left">Languages and Tools:</h3>
